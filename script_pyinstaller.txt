@@ -1,0 +1,9 @@
+python -m PyInstaller ^
+  --onefile ^
+  --noconsole ^
+  --hidden-import=telegram ^
+  --hidden-import=telegram._utils.types ^
+  --hidden-import=telegram._files.input_file ^
+  --hidden-import=PIL ^
+  --hidden-import=PIL._imaging ^
+  upload_bot.py

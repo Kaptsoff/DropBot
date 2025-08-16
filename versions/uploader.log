@@ -1,0 +1,4 @@
+2025-08-14 23:08:08,248 | INFO | HTTP Request: POST https://api.telegram.org/bot8307958255:AAHOXk2JP0_j-lBh8Xf48lRX180J7GKRMpQ/sendMediaGroup "HTTP/1.1 200 OK"
+2025-08-14 23:08:25,598 | INFO | HTTP Request: POST https://api.telegram.org/bot8307958255:AAHOXk2JP0_j-lBh8Xf48lRX180J7GKRMpQ/sendMediaGroup "HTTP/1.1 200 OK"
+2025-08-14 23:09:41,208 | INFO | HTTP Request: POST https://api.telegram.org/bot8307958255:AAHOXk2JP0_j-lBh8Xf48lRX180J7GKRMpQ/sendMediaGroup "HTTP/1.1 200 OK"
+2025-08-14 23:10:43,830 | INFO | HTTP Request: POST https://api.telegram.org/bot8307958255:AAHOXk2JP0_j-lBh8Xf48lRX180J7GKRMpQ/sendMediaGroup "HTTP/1.1 200 OK"
